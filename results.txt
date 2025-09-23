@@ -1,0 +1,6 @@
+
+Results of calculations:
+Addition: 25.00
+Subtraction: 15.00
+Multiplication: 100.00
+Division: 4.00
